@@ -1,5 +1,5 @@
-#İstediklerimiz
-
+# Çalışması İçin Gerekenler
+~~~~~~~~~~~~~~~~~~~~~~
 • Python
 ~~~~~~~~~~~~~~~~~~~~~~
 # Teşekkürler 
