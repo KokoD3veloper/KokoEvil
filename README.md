@@ -1,6 +1,10 @@
 #İstediklerimiz
+
 • Python
+~~~~~~~~~~~~~~~~~~~~~~
 # Teşekkürler 
-• RaptorHaxx
+
+• RaptorHaxx 
+
 • Atla$D3veloper
 
