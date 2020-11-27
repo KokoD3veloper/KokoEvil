@@ -1,0 +1,1 @@
+https://www.hesapalsat.com/GirisYap/GirisYap \"eposta\" \"sifre\" "\"result\":\"true\"}" "result\":\"epostayok\"}"

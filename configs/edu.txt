@@ -1,0 +1,1 @@
+https://aksis.istanbul.edu.tr/Account/LogOn?returnUrl=%2F --UserName --Password --Çıkış --<a href="/Account/ForgotPassword" class="text-muted"> --Yes --https://aksis.istanbul.edu.tr --<input name="__RequestVerificationToken" --" --__RequestVerificationToken
