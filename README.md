@@ -1,10 +1,9 @@
-# Çalışması İçin Gerekenler
+# Çalışması İçin Gerekenler / For Work
 ~~~~~~~~~~~~~~~~~~~~~~
 • Python
 ~~~~~~~~~~~~~~~~~~~~~~
-# Teşekkürler 
+# Teşekkürler / Thanks
 
 • RaptorHaxx 
 
 • Atla$D3veloper
-
